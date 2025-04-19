@@ -1,4 +1,4 @@
-# Chatbot_Creation QnA from Document using Python,GenAI concepts and Streamlit
+# Chatbot Creation QnA from Document using Python,GenAI concepts and Streamlit
 
 ✅ Here’s how it works:
 📌 File Upload & Text Extraction: Users can upload a variety of document formats (PDF, TXT, XLSX), and the system extracts the text using the pdfplumber library for PDFs and Pandas for Excel sheets.
